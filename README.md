@@ -1,8 +1,9 @@
 # autoTreeFormat
 Command line interface that creates easy to read text file of file structure.
 
-# Usage
+# Quick Start
 python autoTree.py -f Example
+Output:
 ```
 Example
 ├── build
@@ -22,3 +23,17 @@ Example
 │   └── unit
 └── zz
 ```
+
+# Parameters
+| Parameter    | Description           | Default  |
+| :---------:  |:-------------:| :-----:|
+| -f           | Name of directory            | Current working directory |
+| -t           | Text file name      |   README_FILE_STRUCTURE.txt|
+| -b           | Directory/File names to blacklist      |  None |
+| -s           | Include system files      |    F |
+| -a           | Sort alphabetically      |    T |
+
+
+
+
+
