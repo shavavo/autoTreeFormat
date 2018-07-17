@@ -39,6 +39,7 @@ Example                                #
 | -c           | Include Comment fields                 | True                        |
 
 ## Examples
+Blacklist:
 ```
 python autoTree.py -f Example -b tools zz helloworld.py
 ```
@@ -62,7 +63,7 @@ Example                                #
 ```
 
 ***
-
+No comment fields:
 ```
 python autoTree.py -f Example -c false
 ```
@@ -89,7 +90,7 @@ Example
 ```
 
 ***
-
+Include hidden files:
 ```
 python autoTree.py -f Example -s true
 ```
@@ -126,8 +127,3 @@ Example                                #
     └── .keep                          #
 
 ```
-
-
-
-
-
