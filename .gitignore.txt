@@ -1,2 +1,2 @@
-.idea
-.ipynb_checkpoint.ipynb
+.idea/
+.ipynb_checkpoint.ipynb/
