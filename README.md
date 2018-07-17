@@ -55,12 +55,10 @@ Example
 ├── License.txt
 ├── README_FILE_STRUCTURE.txt
 ├── src
-├── tools
-├── test
-│   ├── benchmarks
-│   ├── integration
-│   └── unit
-└── zz
+└── test
+    ├── benchmarks
+    ├── integration
+    └── unit
 ```
 
 
