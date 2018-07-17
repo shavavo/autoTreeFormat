@@ -49,8 +49,7 @@ Example
 │   ├── resources
 │   │   └── dog.jpg
 │   └── src
-│       ├── addition.py
-│       └── helloworld.py
+│       └── addition.py
 ├── docs
 ├── License.txt
 ├── README_FILE_STRUCTURE.txt
