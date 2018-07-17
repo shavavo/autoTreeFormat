@@ -18,7 +18,6 @@ Example
 │       └── helloworld.py
 ├── docs
 ├── License.txt
-├── README_FILE_STRUCTURE.txt
 ├── src
 ├── tools
 ├── test
@@ -52,7 +51,6 @@ Example
 │       └── addition.py
 ├── docs
 ├── License.txt
-├── README_FILE_STRUCTURE.txt
 ├── src
 └── test
     ├── benchmarks
