@@ -40,7 +40,7 @@ Example                                #
 
 ## Examples
 ```
-python autoTree.py -f Example -b tools zz helloworld
+python autoTree.py -f Example -b tools zz helloworld.py
 ```
 
 Output:
@@ -50,8 +50,7 @@ Example                                #
 │   ├── resources                      #
 │   │   └── dog.jpg                    #
 │   └── src                            #
-│       ├── addition.py                #
-│       └── helloworld.py              #
+│       └── addition.py                #
 ├── docs                               #
 ├── License.txt                        #
 ├── README_FILE_STRUCTURE.txt          #
@@ -62,7 +61,7 @@ Example                                #
     └── unit                           #
 ```
 
-
+***
 
 ```
 python autoTree.py -f Example -c false
@@ -89,7 +88,7 @@ Example
 └── zz
 ```
 
-
+***
 
 ```
 python autoTree.py -f Example -s true
