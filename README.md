@@ -6,7 +6,7 @@ python autoTree.py -f [directory name]
 ```
 python autoTree.py -f Example
 ```
-
+ 
 Output:
 ```
 Example                                #
