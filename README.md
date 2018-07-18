@@ -1,5 +1,5 @@
 # autoTreeFormat
-Command line interface that creates easy to read text file of file structure.
+Command line interface that converts file structure to easy to read text files. Perfect for README's. 
 
 # Quick Start
 python autoTree.py -f [directory name]
